@@ -25,9 +25,9 @@ I have developed and published several Magento 2 extensions that are live on the
 
 Here are some of the Magento 2 extensions I've developed, available on the Adobe Commerce Marketplace:
 
-- [Print Order Extension](https://commercemarketplace.adobe.com/codecrafters-module-printorder.html): Enables customers and administrators to print order details directly from the Magento admin panel or customer account.&#8203;:contentReference[oaicite:2]{index=2}
+- [Print Order Extension](https://commercemarketplace.adobe.com/codecrafters-module-printorder.html) – Enables customers and administrators to print order details directly from the Magento admin panel or customer account.
 
-- [Log Rotation Extension](https://commercemarketplace.adobe.com/codecrafters-module-logrotation.html): :contentReference[oaicite:3]{index=3}&#8203;:contentReference[oaicite:4]{index=4}
+- [Log Rotation Extension](https://commercemarketplace.adobe.com/codecrafters-module-logrotation.html) – Automatically rotates and manages Magento 2 log files to prevent excessive disk usage.
 
 
 ## Connect with Me
