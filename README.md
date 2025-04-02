@@ -1,7 +1,7 @@
 # Hi there, I'm Muhammad Naseer Aslam! 👋
 
 ## About Me
-I'm an Adobe Commerce Expert Certified Developer with 4 years of experience specializing in e-commerce solutions. My expertise includes:
+I'm an Adobe Commerce Expert Certified Developer with 5 years of experience specializing in e-commerce solutions. My expertise includes:
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
