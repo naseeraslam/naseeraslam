@@ -21,8 +21,6 @@ I’m an **Adobe Commerce Expert Certified Developer** with **5+ years** of expe
 
 [![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naseeraslam&theme=radical)](https://github.com/naseeraslam)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naseeraslam&theme=radical)
-
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=naseeraslam&theme=radical)
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=naseeraslam&theme=radical)
