@@ -11,9 +11,6 @@ I'm an Adobe Commerce Expert Certified Developer with 4 years of experience spec
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## GitHub Stats
-![Nasser's GitHub Stats](https://github-readme-stats.vercel.app/api?username=naseeraslam&show_icons=true&theme=radical)
-
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naseeraslam&layout=compact&theme=radical)
 
