@@ -18,7 +18,8 @@ I'm an Adobe Commerce Expert Certified Developer with 4 years of experience spec
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naseeraslam&layout=compact&theme=radical)
 
 ## GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naseeraslam&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naseeraslam&show_icons=true&theme=radical&count_private=true)
+
 
 ## Adobe Commerce Marketplace Extensions
 I have developed and published several Magento 2 extensions that are live on the Adobe Commerce Marketplace. You can find them here:
