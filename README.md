@@ -15,7 +15,7 @@ I'm an Adobe Commerce Expert Certified Developer with 4 years of experience spec
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naseeraslam&layout=compact&theme=radical)
 
 ## GitHub Streak
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naseeraslam&show_icons=true&theme=radical&count_private=true)
+[![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naseeraslam&theme=radical)](https://github.com/naseeraslam)
 
 
 ## Adobe Commerce Marketplace Extensions
