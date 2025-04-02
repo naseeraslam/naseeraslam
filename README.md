@@ -1,7 +1,9 @@
 # Hi there, I'm Muhammad Naseer Aslam! 👋
 
-## About Me
-I'm an Adobe Commerce Expert Certified Developer with 5 years of experience specializing in e-commerce solutions. My expertise includes:
+## 🚀 About Me
+I’m an **Adobe Commerce Expert Certified Developer** with **5+ years** of experience specializing in **Magento 2** and **e-commerce solutions**. I love crafting high-performance, scalable, and secure applications. Passionate about writing clean code, optimizing performance, and solving complex problems.
+
+## 🛠️ Tech Stack & Expertise
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -11,28 +13,38 @@ I'm an Adobe Commerce Expert Certified Developer with 5 years of experience spec
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## Top Languages
+---
+
+## 📊 GitHub Stats
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naseeraslam&layout=compact&theme=radical)
 
-## GitHub Streak
 [![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naseeraslam&theme=radical)](https://github.com/naseeraslam)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naseeraslam&theme=radical)
 
-## Adobe Commerce Marketplace Extensions
-I have developed and published several Magento 2 extensions that are live on the Adobe Commerce Marketplace. You can find them here:
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=naseeraslam&theme=radical)
 
-## Magento 2 Extensions
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=naseeraslam&theme=radical)
 
-Here are some of the Magento 2 extensions I've developed, available on the Adobe Commerce Marketplace:
+---
 
-- [Print Order Extension](https://commercemarketplace.adobe.com/codecrafters-module-printorder.html) – Enables customers and administrators to print order details directly from the Magento admin panel or customer account.
+## 🛍️ Adobe Commerce Marketplace Extensions
+I have developed and published several **Magento 2 extensions** that are live on the **Adobe Commerce Marketplace**:
 
-- [Log Rotation Extension](https://commercemarketplace.adobe.com/codecrafters-module-logrotation.html) – Automatically rotates and manages Magento 2 log files to prevent excessive disk usage.
+🔹 [**Print Order Extension**](https://commercemarketplace.adobe.com/codecrafters-module-printorder.html) – Enables customers and administrators to print order details directly from the Magento admin panel or customer account.
 
+🔹 [**Log Rotation Extension**](https://commercemarketplace.adobe.com/codecrafters-module-logrotation.html) – Automatically rotates and manages Magento 2 log files to prevent excessive disk usage.
 
-## Connect with Me
+More extensions coming soon... 🚀
+
+---
+
+## 🤝 Let's Connect!
+Feel free to connect with me for collaboration, project discussions, or just to say hi! 👇
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-naseer-aslam-magento-developer/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naseeraslam)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naseeraslam456@gmail.com)
 
-
+💡 **"Code is like humor. When you have to explain it, it’s bad."** – Cory House
