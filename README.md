@@ -27,7 +27,6 @@ I’m an **Adobe Commerce Expert Certified Developer** with **5+ years** of expe
 ### 🥈 Adobe Certified Professional – Adobe Commerce Developer  
 🔗 [Verify Credential](https://certification.adobe.com/credential/verify/b51c0691-34de-4717-a59f-4ffc8de8dbe1)
 
-
 ---
 
 ## 📊 GitHub Stats
@@ -39,6 +38,12 @@ I’m an **Adobe Commerce Expert Certified Developer** with **5+ years** of expe
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=naseeraslam&theme=radical)
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=naseeraslam&theme=radical)
+
+## 🔥 Streaks
+[![GitHub Streak](https://streak-stats.demolab.com/?user=naseeraslam&theme=radical)](https://git.io/streak-stats)
+
+## 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=naseeraslam&color=brightgreen)
 
 ---
 
